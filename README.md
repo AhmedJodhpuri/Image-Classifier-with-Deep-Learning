@@ -13,11 +13,17 @@ This project involves developing an image classifier to recognize different spec
 The dataset consists of images from 102 different species of flowers. Each category contains multiple images of flowers that belong to that species. This dataset is used to train and evaluate the image classifier.
 
 **Dependencies**
+
 Python 3.x
+
 Jupyter Notebook
+
 PyTorch
+
 NumPy
+
 Matplotlib
+
 PIL (Python Imaging Library)
 
 
