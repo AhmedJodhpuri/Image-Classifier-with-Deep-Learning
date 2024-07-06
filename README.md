@@ -1,5 +1,3 @@
-# Image-Classifier-with-Deep-Learning
-
 **Image Classifier with Deep Learning**
 
 **Project Overview**
